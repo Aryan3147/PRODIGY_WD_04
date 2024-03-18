@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+  }
+  
+  .hero img {
+    width: 200px;
+   
+    margin-top: 20px;
+  }
+  
+  .summary {
+    font-size: 18px;
+    font-family: "Times New Roman", sans-serif;
+  }
+  
+  
+  .about {
+    padding: 80px 0;
+  }
+  
+  .about h2 {
+    text-align: center;
+  }
+  
+  .about-content {
+    margin-top: 40px;
+  }
+  
+  .about-content h3 {
+    font-size: 24px;
+  }
+  
+  .about-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: "Times New Roman", sans-serif;
+  }
+  
+  .connect{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+    flex-direction: column;
+
+}
